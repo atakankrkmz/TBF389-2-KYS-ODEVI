@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=YaziliKaynakRepository
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ YaziliKaynak\ here.\r\n\r\n\ @author\ Atakan\ Korkmaz\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=YaziliKaynakRepository()
+comment10.params=line
+comment10.target=Utils.DataResult\ lineToYaziliKaynak(java.lang.String)
+comment2.params=
+comment2.target=Utils.DataResult\ getAll()
+comment3.params=id
+comment3.target=Utils.DataResult\ getById(java.lang.String)
+comment4.params=kaynakAdi
+comment4.target=Utils.DataResult\ getByName(java.lang.String)
+comment5.params=yazarId
+comment5.target=Utils.DataResult\ getByAuthor(java.lang.String)
+comment6.params=eklenecekYaziliKaynak
+comment6.target=Utils.Result\ addYaziliKaynak(YaziliKaynak)
+comment7.params=silinecekYaziliKaynak
+comment7.target=Utils.Result\ deleteYaziliKaynak(YaziliKaynak)
+comment8.params=guncellenecekYaziliKaynak\ guncellenmisYaziliKaynak
+comment8.target=Utils.Result\ updateYaziliKaynak(YaziliKaynak,\ YaziliKaynak)
+comment9.params=k
+comment9.target=java.lang.String\ yaziliKaynakToLine(YaziliKaynak)
+numComments=11

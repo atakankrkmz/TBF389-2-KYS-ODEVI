@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ErrorDataResult
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ErrorDataResult\ here.\r\n\r\n\ @author\ Atakan\ Korkmaz\r\n\ @version\ 1.0.0\r\n
+comment1.params=data\ msg
+comment1.target=ErrorDataResult(java.lang.Object,\ java.lang.String)
+comment2.params=data
+comment2.target=ErrorDataResult(java.lang.Object)
+comment3.params=errorMessage
+comment3.target=ErrorDataResult(java.lang.String)
+numComments=4

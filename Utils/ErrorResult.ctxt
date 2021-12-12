@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ErrorResult
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ErrorResult\ here.\r\n\r\n\ @author\ Atakan\ Korkmaz\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=ErrorResult()
+comment2.params=message
+comment2.target=ErrorResult(java.lang.String)
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FileOperations
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FileOperations\ here.\r\n\r\n\ @author\ Atakan\ Korkmaz\r\n\ @version\ 1.0.0\r\n
+comment1.params=fileName
+comment1.target=FileOperations(java.lang.String)
+comment2.params=
+comment2.target=Utils.Result\ openFile()
+comment3.params=content
+comment3.target=Utils.Result\ writeToFile(java.lang.String)
+comment4.params=content
+comment4.target=Utils.Result\ deleteFromFile(java.lang.String)
+comment5.params=
+comment5.target=Utils.DataResult\ readFile()
+comment6.params=
+comment6.target=Utils.Result\ deleteFile()
+numComments=7

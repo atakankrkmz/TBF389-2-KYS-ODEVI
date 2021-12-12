@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DataResult
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DataResult\ here.\r\n\r\n\ @author\ Atakan\ Korkmaz\r\n\ @version\ ()\r\n
+comment1.params=data\ success\ message
+comment1.target=DataResult(java.lang.Object,\ boolean,\ java.lang.String)
+comment2.params=data\ success
+comment2.target=DataResult(java.lang.Object,\ boolean)
+comment3.params=
+comment3.target=java.lang.Object\ getData()
+numComments=4

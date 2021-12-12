@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OduncKontrolor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OduncKontrolor\ here.\r\n\r\n\ @author\ Atakan\ Korkmaz\r\n\ @version\ ()\r\n
+comment1.params=
+comment1.target=OduncKontrolor()
+comment2.params=k\ alacak
+comment2.target=Utils.Result\ yaziliKaynakOduncVer(YaziliKaynak,\ KutuphaneUyesi)
+comment3.params=k\ alacak
+comment3.target=Utils.Result\ yaziliKaynakRezerveEt(YaziliKaynak,\ KutuphaneUyesi)
+numComments=4

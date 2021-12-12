@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=YaziliKaynak
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ YaziliKaynak\ here.\r\n\r\n\ @author\ Atakan\ Korkmaz\r\n\ @version\ 1.0.0\r\n
+comment1.params=id\ adi\ yazar\ oduncTarihi\ oduncAlan\ durum
+comment1.target=YaziliKaynak(int,\ java.lang.String,\ Yazar,\ java.time.LocalDate,\ KutuphaneUyesi,\ YaziliKaynakDurum)
+comment2.params=id\ adi\ yazar\ durum
+comment2.target=YaziliKaynak(int,\ java.lang.String,\ Yazar,\ YaziliKaynakDurum)
+comment3.params=id\ adi\ yazar
+comment3.target=YaziliKaynak(int,\ java.lang.String,\ Yazar)
+comment4.params=
+comment4.target=java.time.LocalDate\ getOduncTarihi()
+comment5.params=oduncTarihi
+comment5.target=void\ setOduncTarihi(java.time.LocalDate)
+comment6.params=
+comment6.target=KutuphaneUyesi\ getOduncAlan()
+comment7.params=oduncAlan
+comment7.target=void\ setOduncAlan(KutuphaneUyesi)
+comment8.params=
+comment8.target=YaziliKaynakDurum\ getDurum()
+comment9.params=durum
+comment9.target=void\ setDurum(YaziliKaynakDurum)
+numComments=10

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=KaynakKontrolor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ KaynakKontrolor\ here.\r\n\r\n\ @author\ Atakan\ Korkmaz\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=KaynakKontrolor()
+comment10.params=oldKaynak\ newKaynak
+comment10.target=Utils.Result\ yaziliKaynakGuncelle(YaziliKaynak,\ YaziliKaynak)
+comment2.params=olusturulacakKaynak
+comment2.target=void\ kaynakOlustur(DijitalKaynak)
+comment3.params=olusturulacakKaynak
+comment3.target=void\ kaynakOlustur(YaziliKaynak)
+comment4.params=silinecekKaynak
+comment4.target=void\ kaynakSil(DijitalKaynak)
+comment5.params=silinecekKaynak
+comment5.target=void\ kaynakSil(YaziliKaynak)
+comment6.params=
+comment6.target=int\ kaynakSayisi()
+comment7.params=
+comment7.target=Utils.DataResult\ getDijitalKaynaklar()
+comment8.params=
+comment8.target=Utils.DataResult\ getYaziliKaynaklar()
+comment9.params=name
+comment9.target=Utils.DataResult\ getYaziliKaynakByName(java.lang.String)
+numComments=11
