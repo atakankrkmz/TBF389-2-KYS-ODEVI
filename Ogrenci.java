@@ -14,4 +14,10 @@ public class Ogrenci extends KutuphaneUyesi
     public Ogrenci(String id, String adi, String soyadi) {
         super(id, adi, soyadi);
     }
+    
+    // Overriding
+    public void tanitim(){
+        System.out.println("ID: " + getAdi() + " Ad: " + this.getAdi() + " Soyad: " + this.getSoyadi() +
+                            " Fakulte: " + fakulte + " Program: " + program + " Baslangic Tarihi : " + baslangicTarihi);
+    }
 }

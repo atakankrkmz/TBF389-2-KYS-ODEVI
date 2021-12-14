@@ -44,5 +44,8 @@ public abstract class Kisi
     public void setSoyadi(String soyadi) {
         this.soyadi = soyadi;
     }
-
+    
+    public void tanitim(){
+        System.out.println("ID: " + id + " Ad: " + adi + " Soyad: " + soyadi);
+    }
 }

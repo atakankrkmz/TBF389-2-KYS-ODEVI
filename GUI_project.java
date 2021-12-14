@@ -348,7 +348,7 @@ public class GUI_project extends JFrame {
                 if (selectedUye != null) {
                     alacak = selectedUye;
                 } else {
-                    JOptionPane.showMessageDialog(null, "Lütfen işlem yapacağınız kaynağı seçiniz", "Kaynak Seçilmedi " , JOptionPane.ERROR_MESSAGE);
+                    JOptionPane.showMessageDialog(null, "Lütfen işlem yapacağınız uyeyi seçiniz", "Uye Seçilmedi " , JOptionPane.ERROR_MESSAGE);
                     return;
                 }
                 Result result2 = oduncKontrolor.yaziliKaynakOduncVer(yaziliKaynak, alacak);

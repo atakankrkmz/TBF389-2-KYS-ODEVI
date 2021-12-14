@@ -17,4 +17,6 @@ comment7.params=
 comment7.target=java.lang.String\ getSoyadi()
 comment8.params=soyadi
 comment8.target=void\ setSoyadi(java.lang.String)
-numComments=9
+comment9.params=
+comment9.target=void\ tanitim()
+numComments=10
